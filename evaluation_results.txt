@@ -1,0 +1,165 @@
+resnet50 Model Evaluation:
+Accuracy: 49.82%
+Classification Report:
+                            precision    recall  f1-score   support
+
+    Abstract_Expressionism       0.51      0.43      0.47        46
+        Art_Nouveau_Modern       0.62      0.41      0.49        44
+                   Baroque       0.51      0.45      0.48        47
+      Color_Field_Painting       0.63      0.69      0.66        64
+                    Cubism       0.67      0.38      0.49        52
+         Early_Renaissance       0.41      0.82      0.55        38
+             Expressionism       0.22      0.30      0.26        50
+                   Fauvism       0.63      0.49      0.55        45
+          High_Renaissance       0.66      0.37      0.47        63
+             Impressionism       0.48      0.28      0.36        46
+Mannerism_Late_Renaissance       0.64      0.43      0.51        49
+                Minimalism       0.55      0.77      0.64        52
+     Naive_Art_Primitivism       0.49      0.50      0.50        54
+      Northern_Renaissance       0.73      0.50      0.59        48
+               Pointillism       0.95      0.76      0.85        51
+                   Pop_Art       0.47      0.53      0.50        51
+        Post_Impressionism       0.17      0.33      0.22        43
+                   Realism       0.54      0.33      0.41        67
+                    Rococo       0.88      0.40      0.55        52
+               Romanticism       0.24      0.76      0.37        38
+                 Symbolism       0.33      0.31      0.32        51
+                   Ukiyo_e       0.93      0.84      0.88        49
+
+                  accuracy                           0.50      1100
+                 macro avg       0.56      0.50      0.50      1100
+              weighted avg       0.57      0.50      0.51      1100
+
+
+resnet101 Model Evaluation:
+Accuracy: 51.73%
+Classification Report:
+                            precision    recall  f1-score   support
+
+    Abstract_Expressionism       0.47      0.46      0.46        46
+        Art_Nouveau_Modern       0.38      0.36      0.37        44
+                   Baroque       0.48      0.43      0.45        47
+      Color_Field_Painting       0.71      0.61      0.66        64
+                    Cubism       0.70      0.54      0.61        52
+         Early_Renaissance       0.44      0.66      0.53        38
+             Expressionism       0.18      0.26      0.21        50
+                   Fauvism       0.50      0.69      0.58        45
+          High_Renaissance       0.52      0.52      0.52        63
+             Impressionism       0.58      0.39      0.47        46
+Mannerism_Late_Renaissance       0.48      0.61      0.54        49
+                Minimalism       0.66      0.67      0.67        52
+     Naive_Art_Primitivism       0.70      0.30      0.42        54
+      Northern_Renaissance       0.57      0.56      0.57        48
+               Pointillism       0.77      0.84      0.80        51
+                   Pop_Art       0.55      0.61      0.58        51
+        Post_Impressionism       0.20      0.23      0.22        43
+                   Realism       0.49      0.42      0.45        67
+                    Rococo       0.64      0.62      0.63        52
+               Romanticism       0.37      0.45      0.40        38
+                 Symbolism       0.41      0.35      0.38        51
+                   Ukiyo_e       0.84      0.78      0.81        49
+
+                  accuracy                           0.52      1100
+                 macro avg       0.53      0.52      0.51      1100
+              weighted avg       0.54      0.52      0.52      1100
+
+
+resnet152 Model Evaluation:
+Accuracy: 51.64%
+Classification Report:
+                            precision    recall  f1-score   support
+
+    Abstract_Expressionism       0.51      0.50      0.51        46
+        Art_Nouveau_Modern       0.52      0.39      0.44        44
+                   Baroque       0.45      0.55      0.50        47
+      Color_Field_Painting       0.68      0.64      0.66        64
+                    Cubism       0.68      0.48      0.56        52
+         Early_Renaissance       0.57      0.63      0.60        38
+             Expressionism       0.27      0.30      0.28        50
+                   Fauvism       0.48      0.47      0.47        45
+          High_Renaissance       0.58      0.60      0.59        63
+             Impressionism       0.41      0.59      0.48        46
+Mannerism_Late_Renaissance       0.61      0.45      0.52        49
+                Minimalism       0.72      0.60      0.65        52
+     Naive_Art_Primitivism       0.49      0.37      0.42        54
+      Northern_Renaissance       0.60      0.69      0.64        48
+               Pointillism       0.78      0.71      0.74        51
+                   Pop_Art       0.48      0.57      0.52        51
+        Post_Impressionism       0.22      0.26      0.24        43
+                   Realism       0.44      0.43      0.44        67
+                    Rococo       0.52      0.50      0.51        52
+               Romanticism       0.32      0.42      0.36        38
+                 Symbolism       0.29      0.27      0.28        51
+                   Ukiyo_e       0.94      0.90      0.92        49
+
+                  accuracy                           0.52      1100
+                 macro avg       0.52      0.51      0.51      1100
+              weighted avg       0.53      0.52      0.52      1100
+
+
+googlenet Model Evaluation:
+Accuracy: 10.09%
+Classification Report:
+                            precision    recall  f1-score   support
+
+    Abstract_Expressionism       0.03      0.37      0.06        46
+        Art_Nouveau_Modern       0.10      0.02      0.04        44
+                   Baroque       0.00      0.00      0.00        47
+      Color_Field_Painting       0.41      0.41      0.41        64
+                    Cubism       0.40      0.04      0.07        52
+         Early_Renaissance       0.00      0.00      0.00        38
+             Expressionism       0.00      0.00      0.00        50
+                   Fauvism       0.60      0.07      0.12        45
+          High_Renaissance       0.00      0.00      0.00        63
+             Impressionism       0.00      0.00      0.00        46
+Mannerism_Late_Renaissance       0.00      0.00      0.00        49
+                Minimalism       0.16      0.25      0.20        52
+     Naive_Art_Primitivism       0.00      0.00      0.00        54
+      Northern_Renaissance       0.00      0.00      0.00        48
+               Pointillism       0.19      0.29      0.23        51
+                   Pop_Art       0.20      0.41      0.27        51
+        Post_Impressionism       0.22      0.05      0.08        43
+                   Realism       0.00      0.00      0.00        67
+                    Rococo       0.00      0.00      0.00        52
+               Romanticism       0.05      0.16      0.08        38
+                 Symbolism       0.17      0.08      0.11        51
+                   Ukiyo_e       0.01      0.02      0.02        49
+
+                  accuracy                           0.10      1100
+                 macro avg       0.12      0.10      0.08      1100
+              weighted avg       0.12      0.10      0.08      1100
+
+
+efficientnet_b0 Model Evaluation:
+Accuracy: 14.27%
+Classification Report:
+                            precision    recall  f1-score   support
+
+    Abstract_Expressionism       0.05      0.13      0.07        46
+        Art_Nouveau_Modern       0.09      0.02      0.04        44
+                   Baroque       0.00      0.00      0.00        47
+      Color_Field_Painting       0.12      0.20      0.15        64
+                    Cubism       1.00      0.02      0.04        52
+         Early_Renaissance       1.00      0.03      0.05        38
+             Expressionism       0.04      0.14      0.06        50
+                   Fauvism       0.56      0.20      0.30        45
+          High_Renaissance       0.50      0.08      0.14        63
+             Impressionism       0.12      0.13      0.13        46
+Mannerism_Late_Renaissance       0.35      0.33      0.34        49
+                Minimalism       0.17      0.63      0.26        52
+     Naive_Art_Primitivism       0.00      0.00      0.00        54
+      Northern_Renaissance       0.14      0.02      0.04        48
+               Pointillism       0.38      0.39      0.38        51
+                   Pop_Art       0.29      0.08      0.12        51
+        Post_Impressionism       0.10      0.14      0.11        43
+                   Realism       0.28      0.24      0.26        67
+                    Rococo       0.12      0.10      0.11        52
+               Romanticism       0.10      0.08      0.09        38
+                 Symbolism       0.04      0.06      0.05        51
+                   Ukiyo_e       1.00      0.02      0.04        49
+
+                  accuracy                           0.14      1100
+                 macro avg       0.29      0.14      0.13      1100
+              weighted avg       0.29      0.14      0.13      1100
+
+

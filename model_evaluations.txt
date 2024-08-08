@@ -1,0 +1,116 @@
+resnet50 Model Evaluation:
+Accuracy: 0.50%
+Classification Report:
+Class 0: {'precision': 0.5806451612903226, 'recall': 0.375, 'f1-score': 0.45569620253164556, 'support': 48.0}
+Class 1: {'precision': 0.5, 'recall': 0.3469387755102041, 'f1-score': 0.40963855421686746, 'support': 49.0}
+Class 2: {'precision': 0.4444444444444444, 'recall': 0.37735849056603776, 'f1-score': 0.40816326530612246, 'support': 53.0}
+Class 3: {'precision': 0.5573770491803278, 'recall': 0.723404255319149, 'f1-score': 0.6296296296296297, 'support': 47.0}
+Class 4: {'precision': 0.8, 'recall': 0.4, 'f1-score': 0.5333333333333333, 'support': 80.0}
+Class 5: {'precision': 0.45588235294117646, 'recall': 0.6739130434782609, 'f1-score': 0.543859649122807, 'support': 46.0}
+Class 6: {'precision': 0.15476190476190477, 'recall': 0.3023255813953488, 'f1-score': 0.2047244094488189, 'support': 43.0}
+Class 7: {'precision': 0.7, 'recall': 0.5121951219512195, 'f1-score': 0.5915492957746479, 'support': 41.0}
+Class 8: {'precision': 0.6470588235294118, 'recall': 0.4074074074074074, 'f1-score': 0.5, 'support': 54.0}
+Class 9: {'precision': 0.5625, 'recall': 0.2, 'f1-score': 0.29508196721311475, 'support': 45.0}
+Class 10: {'precision': 0.7058823529411765, 'recall': 0.47058823529411764, 'f1-score': 0.5647058823529412, 'support': 51.0}
+Class 11: {'precision': 0.5362318840579711, 'recall': 0.7115384615384616, 'f1-score': 0.6115702479338843, 'support': 52.0}
+Class 12: {'precision': 0.44642857142857145, 'recall': 0.5434782608695652, 'f1-score': 0.49019607843137253, 'support': 46.0}
+Class 13: {'precision': 0.7142857142857143, 'recall': 0.46296296296296297, 'f1-score': 0.5617977528089888, 'support': 54.0}
+Class 14: {'precision': 0.8717948717948718, 'recall': 0.8292682926829268, 'f1-score': 0.85, 'support': 41.0}
+Class 15: {'precision': 0.68, 'recall': 0.6071428571428571, 'f1-score': 0.6415094339622641, 'support': 56.0}
+Class 16: {'precision': 0.2962962962962963, 'recall': 0.5217391304347826, 'f1-score': 0.3779527559055118, 'support': 46.0}
+Class 17: {'precision': 0.5294117647058824, 'recall': 0.3103448275862069, 'f1-score': 0.391304347826087, 'support': 58.0}
+Class 18: {'precision': 0.6363636363636364, 'recall': 0.4666666666666667, 'f1-score': 0.5384615384615384, 'support': 45.0}
+Class 19: {'precision': 0.24107142857142858, 'recall': 0.574468085106383, 'f1-score': 0.33962264150943394, 'support': 47.0}
+Class 20: {'precision': 0.29508196721311475, 'recall': 0.4186046511627907, 'f1-score': 0.34615384615384615, 'support': 43.0}
+Class 21: {'precision': 0.8679245283018868, 'recall': 0.8363636363636363, 'f1-score': 0.8518518518518519, 'support': 55.0}
+accuracy: 0.5
+macro avg: {'precision': 0.5556110341867335, 'recall': 0.5032594883381357, 'f1-score': 0.5062183038079412, 'support': 1100.0}
+weighted avg: {'precision': 0.5674942438181064, 'recall': 0.5, 'f1-score': 0.5095125284851382, 'support': 1100.0}
+
+resnet101 Model Evaluation:
+Accuracy: 0.52%
+Classification Report:
+Class 0: {'precision': 0.5416666666666666, 'recall': 0.5416666666666666, 'f1-score': 0.5416666666666666, 'support': 48.0}
+Class 1: {'precision': 0.2972972972972973, 'recall': 0.22448979591836735, 'f1-score': 0.2558139534883721, 'support': 49.0}
+Class 2: {'precision': 0.5625, 'recall': 0.5094339622641509, 'f1-score': 0.5346534653465347, 'support': 53.0}
+Class 3: {'precision': 0.6904761904761905, 'recall': 0.6170212765957447, 'f1-score': 0.651685393258427, 'support': 47.0}
+Class 4: {'precision': 0.8095238095238095, 'recall': 0.6375, 'f1-score': 0.7132867132867133, 'support': 80.0}
+Class 5: {'precision': 0.5526315789473685, 'recall': 0.45652173913043476, 'f1-score': 0.5, 'support': 46.0}
+Class 6: {'precision': 0.23076923076923078, 'recall': 0.27906976744186046, 'f1-score': 0.25263157894736843, 'support': 43.0}
+Class 7: {'precision': 0.3225806451612903, 'recall': 0.4878048780487805, 'f1-score': 0.3883495145631068, 'support': 41.0}
+Class 8: {'precision': 0.4032258064516129, 'recall': 0.46296296296296297, 'f1-score': 0.43103448275862066, 'support': 54.0}
+Class 9: {'precision': 0.5, 'recall': 0.3333333333333333, 'f1-score': 0.4, 'support': 45.0}
+Class 10: {'precision': 0.4745762711864407, 'recall': 0.5490196078431373, 'f1-score': 0.509090909090909, 'support': 51.0}
+Class 11: {'precision': 0.6666666666666666, 'recall': 0.7692307692307693, 'f1-score': 0.7142857142857143, 'support': 52.0}
+Class 12: {'precision': 0.6388888888888888, 'recall': 0.5, 'f1-score': 0.5609756097560976, 'support': 46.0}
+Class 13: {'precision': 0.5344827586206896, 'recall': 0.5740740740740741, 'f1-score': 0.5535714285714286, 'support': 54.0}
+Class 14: {'precision': 0.723404255319149, 'recall': 0.8292682926829268, 'f1-score': 0.7727272727272727, 'support': 41.0}
+Class 15: {'precision': 0.6382978723404256, 'recall': 0.5357142857142857, 'f1-score': 0.5825242718446602, 'support': 56.0}
+Class 16: {'precision': 0.3333333333333333, 'recall': 0.4782608695652174, 'f1-score': 0.39285714285714285, 'support': 46.0}
+Class 17: {'precision': 0.5, 'recall': 0.41379310344827586, 'f1-score': 0.4528301886792453, 'support': 58.0}
+Class 18: {'precision': 0.5, 'recall': 0.6888888888888889, 'f1-score': 0.5794392523364486, 'support': 45.0}
+Class 19: {'precision': 0.3333333333333333, 'recall': 0.23404255319148937, 'f1-score': 0.275, 'support': 47.0}
+Class 20: {'precision': 0.3469387755102041, 'recall': 0.3953488372093023, 'f1-score': 0.3695652173913043, 'support': 43.0}
+Class 21: {'precision': 0.8867924528301887, 'recall': 0.8545454545454545, 'f1-score': 0.8703703703703703, 'support': 55.0}
+accuracy: 0.5227272727272727
+macro avg: {'precision': 0.5221539015146721, 'recall': 0.5169086872161873, 'f1-score': 0.5137435975557456, 'support': 1100.0}
+weighted avg: {'precision': 0.5355960952362168, 'recall': 0.5227272727272727, 'f1-score': 0.523481313347801, 'support': 1100.0}
+
+googlenet Model Evaluation:
+Accuracy: 0.43%
+Classification Report:
+Class 0: {'precision': 0.3238095238095238, 'recall': 0.7083333333333334, 'f1-score': 0.4444444444444444, 'support': 48.0}
+Class 1: {'precision': 0.325, 'recall': 0.2653061224489796, 'f1-score': 0.29213483146067415, 'support': 49.0}
+Class 2: {'precision': 0.47619047619047616, 'recall': 0.18867924528301888, 'f1-score': 0.2702702702702703, 'support': 53.0}
+Class 3: {'precision': 0.7878787878787878, 'recall': 0.5531914893617021, 'f1-score': 0.65, 'support': 47.0}
+Class 4: {'precision': 0.7659574468085106, 'recall': 0.45, 'f1-score': 0.5669291338582677, 'support': 80.0}
+Class 5: {'precision': 0.4, 'recall': 0.6521739130434783, 'f1-score': 0.49586776859504134, 'support': 46.0}
+Class 6: {'precision': 0.3, 'recall': 0.13953488372093023, 'f1-score': 0.19047619047619047, 'support': 43.0}
+Class 7: {'precision': 0.5333333333333333, 'recall': 0.3902439024390244, 'f1-score': 0.4507042253521127, 'support': 41.0}
+Class 8: {'precision': 0.44680851063829785, 'recall': 0.3888888888888889, 'f1-score': 0.4158415841584158, 'support': 54.0}
+Class 9: {'precision': 0.34545454545454546, 'recall': 0.4222222222222222, 'f1-score': 0.38, 'support': 45.0}
+Class 10: {'precision': 0.0, 'recall': 0.0, 'f1-score': 0.0, 'support': 51.0}
+Class 11: {'precision': 0.6666666666666666, 'recall': 0.7692307692307693, 'f1-score': 0.7142857142857143, 'support': 52.0}
+Class 12: {'precision': 0.5, 'recall': 0.3695652173913043, 'f1-score': 0.425, 'support': 46.0}
+Class 13: {'precision': 0.7222222222222222, 'recall': 0.24074074074074073, 'f1-score': 0.3611111111111111, 'support': 54.0}
+Class 14: {'precision': 0.825, 'recall': 0.8048780487804879, 'f1-score': 0.8148148148148148, 'support': 41.0}
+Class 15: {'precision': 0.7333333333333333, 'recall': 0.39285714285714285, 'f1-score': 0.5116279069767442, 'support': 56.0}
+Class 16: {'precision': 0.19811320754716982, 'recall': 0.45652173913043476, 'f1-score': 0.27631578947368424, 'support': 46.0}
+Class 17: {'precision': 0.2777777777777778, 'recall': 0.43103448275862066, 'f1-score': 0.33783783783783783, 'support': 58.0}
+Class 18: {'precision': 0.5, 'recall': 0.4, 'f1-score': 0.4444444444444444, 'support': 45.0}
+Class 19: {'precision': 0.13559322033898305, 'recall': 0.1702127659574468, 'f1-score': 0.1509433962264151, 'support': 47.0}
+Class 20: {'precision': 0.21052631578947367, 'recall': 0.27906976744186046, 'f1-score': 0.24, 'support': 43.0}
+Class 21: {'precision': 0.5483870967741935, 'recall': 0.9272727272727272, 'f1-score': 0.6891891891891891, 'support': 55.0}
+accuracy: 0.42818181818181816
+macro avg: {'precision': 0.45554783929833165, 'recall': 0.4272707910137779, 'f1-score': 0.41464721149888056, 'support': 1100.0}
+weighted avg: {'precision': 0.46611098835599996, 'recall': 0.42818181818181816, 'f1-score': 0.4188978188337495, 'support': 1100.0}
+
+efficientnet_b0 Model Evaluation:
+Accuracy: 0.14%
+Classification Report:
+Class 0: {'precision': 0.08029197080291971, 'recall': 0.22916666666666666, 'f1-score': 0.11891891891891893, 'support': 48.0}
+Class 1: {'precision': 0.25, 'recall': 0.04081632653061224, 'f1-score': 0.07017543859649122, 'support': 49.0}
+Class 2: {'precision': 0.5, 'recall': 0.018867924528301886, 'f1-score': 0.03636363636363636, 'support': 53.0}
+Class 3: {'precision': 0.05714285714285714, 'recall': 0.1276595744680851, 'f1-score': 0.07894736842105263, 'support': 47.0}
+Class 4: {'precision': 0.0, 'recall': 0.0, 'f1-score': 0.0, 'support': 80.0}
+Class 5: {'precision': 0.0, 'recall': 0.0, 'f1-score': 0.0, 'support': 46.0}
+Class 6: {'precision': 0.04128440366972477, 'recall': 0.20930232558139536, 'f1-score': 0.06896551724137931, 'support': 43.0}
+Class 7: {'precision': 0.3888888888888889, 'recall': 0.17073170731707318, 'f1-score': 0.23728813559322035, 'support': 41.0}
+Class 8: {'precision': 0.4, 'recall': 0.037037037037037035, 'f1-score': 0.06779661016949153, 'support': 54.0}
+Class 9: {'precision': 0.1875, 'recall': 0.13333333333333333, 'f1-score': 0.15584415584415584, 'support': 45.0}
+Class 10: {'precision': 0.23728813559322035, 'recall': 0.27450980392156865, 'f1-score': 0.2545454545454545, 'support': 51.0}
+Class 11: {'precision': 0.18023255813953487, 'recall': 0.5961538461538461, 'f1-score': 0.2767857142857143, 'support': 52.0}
+Class 12: {'precision': 0.0, 'recall': 0.0, 'f1-score': 0.0, 'support': 46.0}
+Class 13: {'precision': 0.5714285714285714, 'recall': 0.07407407407407407, 'f1-score': 0.13114754098360656, 'support': 54.0}
+Class 14: {'precision': 0.3225806451612903, 'recall': 0.24390243902439024, 'f1-score': 0.2777777777777778, 'support': 41.0}
+Class 15: {'precision': 0.375, 'recall': 0.10714285714285714, 'f1-score': 0.16666666666666666, 'support': 56.0}
+Class 16: {'precision': 0.15625, 'recall': 0.21739130434782608, 'f1-score': 0.18181818181818182, 'support': 46.0}
+Class 17: {'precision': 0.21176470588235294, 'recall': 0.3103448275862069, 'f1-score': 0.2517482517482518, 'support': 58.0}
+Class 18: {'precision': 0.14285714285714285, 'recall': 0.1111111111111111, 'f1-score': 0.125, 'support': 45.0}
+Class 19: {'precision': 0.023809523809523808, 'recall': 0.02127659574468085, 'f1-score': 0.02247191011235955, 'support': 47.0}
+Class 20: {'precision': 0.05172413793103448, 'recall': 0.06976744186046512, 'f1-score': 0.0594059405940594, 'support': 43.0}
+Class 21: {'precision': 1.0, 'recall': 0.07272727272727272, 'f1-score': 0.13559322033898305, 'support': 55.0}
+accuracy: 0.13636363636363635
+macro avg: {'precision': 0.23536561551395738, 'recall': 0.13933256677985473, 'f1-score': 0.12351183818270008, 'support': 1100.0}
+weighted avg: {'precision': 0.23985931804872074, 'recall': 0.13636363636363635, 'f1-score': 0.12090000042705094, 'support': 1100.0}
+
